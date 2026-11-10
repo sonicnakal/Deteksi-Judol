@@ -9,7 +9,7 @@ def bersihkan_teks(teks: str) -> str:
     
     # 3. Ganti angka dengan huruf yang sesuai
     mapping = {
-        "1": "i",
+        "1": "i",   
         "4": "a",
         "0": "o",
         "3": "e"
